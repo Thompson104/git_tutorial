@@ -1,0 +1,2 @@
+joint_state_publisher/joint_state_publisher:joint_state_publisher/joint_state_publisher_gui
+-DCATKIN_DEVEL_PREFIX=/home/ywen/yalun_test/devel -DCMAKE_INSTALL_PREFIX=/home/ywen/yalun_test/install -G Unix Makefiles
